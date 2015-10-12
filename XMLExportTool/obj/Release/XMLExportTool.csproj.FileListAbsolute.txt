@@ -1,0 +1,11 @@
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\bin\Release\XMLExportTool.exe.config
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\bin\Release\XMLExportTool.exe
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\bin\Release\XMLExportTool.pdb
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.Form1.resources
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.Form3.resources
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.Properties.Resources.resources
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.csproj.GenerateResource.Cache
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.exe
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.pdb
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.csprojResolveAssemblyReference.cache
+C:\Users\zhangzhizhi\Documents\Visual Studio 2012\Projects\XMLExportTool\XMLExportTool\obj\Release\XMLExportTool.Form4.resources
